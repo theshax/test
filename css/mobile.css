@@ -1,0 +1,114 @@
+@media only screen and (max-width: 400px) {
+
+	header{
+	 background: url(../img/bg_g.png);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.ico_p{
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 0px;
+}
+
+.linea{
+  width: 1px;
+  height: 811px;
+  border: solid 1px #ffffff;
+  background-color: #fff;
+  position: absolute;
+  margin-left: 38px;
+}
+
+.navbar-toggler{
+    margin-left: -130px;
+    border:1px solid #fff!important;
+}
+
+.text-1{
+    margin-left: 43px;
+    width: 279px;
+    height: 257px;
+    margin-top: 85px;
+
+}
+
+.text-1 p{
+    color: #fff;
+    font-size: 33px;
+}
+
+.text-1 a{
+    width: 246px;
+     font-size: 12px;
+}
+
+.cont-txt-l{
+    text-align: left;
+}
+
+.cont-txt span{
+  font-size: 18px;
+}
+
+.cont-txt h3{
+  font-size: 26px;
+}
+
+.cont-txt p{
+  font-size: 14px;
+  margin-top: 10px;
+  width: 260px;
+}
+
+.cont-txt a{
+
+    margin-top: -82px;
+    width: 160px;
+
+}
+
+.carousel-caption{
+    width: 150px;
+    margin-left: 108px!important;
+}
+
+.carousel-caption h4{
+    font-size: 26px;
+}
+
+.carousel-caption p{
+    width: 120px;
+    font-size: 14px;
+}
+|
+.carousel-control-prev{
+    top: 320px;
+    margin-left: 80px;
+} 
+
+.carousel-control-next{
+    top: 320px;
+    margin-right: 90px!important;
+}
+
+.img-t{
+    margin-bottom: 20px;
+}
+
+footer{
+    height: 400px;
+}
+
+.ico_f{
+    margin-top: 20px;
+    margin-left: 205px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+}
